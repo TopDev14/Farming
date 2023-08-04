@@ -7,7 +7,6 @@ function crazy() {
   const haha = 'haha'
   // Honn
   //sjeoafijwoiej
-  //asdfjalskjdf
-  //asdhfasjdfoija sodifjpoaisdjf
+  //asdfjalskjdffhiasudhfpoiashefpoih
   // ajsodkjf;aosdfiusdhfiu
 }
