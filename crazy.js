@@ -8,7 +8,7 @@ function crazy() {
   // Honn
   //sjeoafijwoiej
   //asdfjalskjdffhiasudhfpoiashefpoih
-  // ajsodkjf;aosdfiusdhfiu
-  ///dfajsdf;ajsdf;lkjads;fl
+  // ajsodkjf;aosdyfiusdhfiu
+  ///dfajsdf;ajsdf;lkjads;flfd
   ///sdfjyhfgnflkn thisishasoidfhoasioihwegiuashpoidhf
 }
