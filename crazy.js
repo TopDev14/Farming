@@ -5,7 +5,7 @@ function crazy() {
   const bruh = 'bruh';
   const nahbruh = 'bruh';
   const haha = 'haha'
-  // Honn
+  // Honnkvjhbkn
   //sjeoafijwoiejsdfb
   //asdfjalskjdffhiasudhfpoiashefpoih
   // ajsodkjf;aosdysgwdgfafiusdhfiu
