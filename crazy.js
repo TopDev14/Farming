@@ -6,6 +6,6 @@ function crazy() {
   const nahbruh = 'bruh';
   const haha = 'haha'
   // Honnkvsgddsfgysadsf
-  //sjeoafijwoijsdfbsfjsdfsdaweg
+  //sjeoafijwoijsdfbsfjsdfsdawegsdf
   //sdfasdsdfsdsbsfbbdsdfsdfhdsf
 }
